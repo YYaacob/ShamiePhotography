@@ -1,0 +1,24 @@
+{
+  "name": "shamiephotography",
+  "version": "1.0.0",
+  "description": "A website of photographies",
+  "main": "index.js",
+  "homepage": "https://signosrk.github.io/ShamiePhotography",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SignosRk/ShamiePhotography.git"
+  },
+  "author": "Y. Yaacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SignosRk/ShamiePhotography/issues"
+  },
+  "homepage": "https://github.com/SignosRk/ShamiePhotography#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
